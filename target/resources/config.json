@@ -1,0 +1,22 @@
+{
+   "game-label":"Rock-Paper-Scissors",
+   "version":"1.0.0",
+   "num-of-players":2,
+   "num-of-tries":100,
+   "player-info":[
+      {
+         "name":"Jack",
+         "options":[
+            "PAPER"
+         ]
+      },
+      {
+         "name":"Jill",
+         "options":[
+            "PAPER",
+            "ROCK",
+            "SCISSORS"
+         ]
+      }
+   ]
+}

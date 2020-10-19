@@ -1,0 +1,8 @@
+gameapp\App.class
+gameapp\Player.class
+gameapp\Game$Choice.class
+gameapp\Game$ROUND_RESULT.class
+gameapp\Score.class
+gameapp\GameConfig.class
+gameapp\Game.class
+gameapp\Score$1.class
